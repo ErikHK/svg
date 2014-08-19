@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <filter
+       id="filter2987"
+       inkscape:menu-tooltip="Draws a black outline around"
+       inkscape:menu="ABCs"
+       inkscape:label="Black outline"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence2995"
+         result="result1"
+         baseFrequency=".005 .01" />
+      <feComposite
+         id="feComposite2997"
+         in2="result1"
+         operator="arithmetic"
+         in="SourceGraphic"
+         k1="1"
+         k2="0.5"
+         k3="0"
+         k4="0" />
+      <feMorphology
+         id="feMorphology2999"
+         radius="3" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="398.67398"
+     inkscape:cy="722.03051"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="675"
+     inkscape:window-height="713"
+     inkscape:window-x="683"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3001"
+       width="202.0305"
+       height="160.61426"
+       x="221.2234"
+       y="27.057348" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2987)"
+       id="path2985"
+       sodipodi:cx="354.28571"
+       sodipodi:cy="328.07648"
+       sodipodi:rx="185.71428"
+       sodipodi:ry="184.28572"
+       d="m 539.99998,328.07648 a 185.71428,184.28572 0 1 1 -371.42855,0 185.71428,184.28572 0 1 1 371.42855,0 z"
+       transform="translate(152.53303,-96.974649)" />
+  </g>
+</svg>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4331"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="rotationsfiltertest.svg">
+  <defs
+     id="defs4333">
+    <filter
+       id="filter4341"
+       inkscape:label="filter1">
+      <feTurbulence
+         id="feTurbulence4391"
+         baseFrequency="0.0050000000000000001 0.40000000000000002"
+         result="result4" />
+      <feDiffuseLighting
+         id="feDiffuseLighting4355"
+         diffuseConstant="1"
+         surfaceScale="0"
+         lighting-color="rgb(0,254,0)"
+         result="ett">
+        <fePointLight
+           id="fePointLight4359"
+           z="70"
+           x="-100"
+           y="-100" />
+      </feDiffuseLighting>
+      <feDiffuseLighting
+         id="feDiffuseLighting4367"
+         lighting-color="#ff0000"
+         result="tva">
+        <fePointLight
+           id="fePointLight4369"
+           z="70"
+           x="400"
+           y="400" />
+      </feDiffuseLighting>
+      <feDiffuseLighting
+         id="feDiffuseLighting4371"
+         lighting-color="#f5ff00"
+         result="tre"
+         diffuseConstant="1">
+        <fePointLight
+           id="fePointLight4373"
+           x="0"
+           z="70"
+           y="380" />
+      </feDiffuseLighting>
+      <feDiffuseLighting
+         id="feDiffuseLighting4375"
+         lighting-color="#5c8000"
+         surfaceScale="0"
+         result="fyra"
+         diffuseConstant="1">
+        <fePointLight
+           id="fePointLight4377"
+           x="380"
+           z="70" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite4385"
+         in2="fyra"
+         operator="arithmetic"
+         in="tre"
+         k1="0"
+         k2="1"
+         k3="1"
+         result="result1" />
+      <feComposite
+         id="feComposite4387"
+         in2="result1"
+         in="tva"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         result="result2" />
+      <feComposite
+         id="feComposite4389"
+         in2="result2"
+         in="ett"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         result="result3" />
+      <feDisplacementMap
+         id="feDisplacementMap3041"
+         in2="result3"
+         in="result4"
+         scale="100"
+         xChannelSelector="R"
+         yChannelSelector="G" />
+    </filter>
+    <filter
+       inkscape:label="filter1"
+       id="filter3007">
+      <feTurbulence
+         result="result4"
+         baseFrequency="0.0050000000000000001 0.40000000000000002"
+         id="feTurbulence3009" />
+      <feSpecularLighting
+         id="feSpecularLighting3035"
+         lighting-color="rgb(255,0,0)"
+         surfaceScale="1">
+        <feDistantLight
+           id="feDistantLight3039"
+           elevation="118"
+           azimuth="150" />
+      </feSpecularLighting>
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="375"
+     inkscape:cy="805.71428"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4336">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#035300;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4341)"
+       id="rect4339"
+       width="300"
+       height="300"
+       x="34.285713"
+       y="28.571428" />
+    <rect
+       y="491.42856"
+       x="40"
+       height="300"
+       width="300"
+       id="rect3005"
+       style="fill:#035300;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3007)" />
+  </g>
+</svg>

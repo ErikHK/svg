@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3187"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="metaltest.svg">
+  <defs
+     id="defs3189">
+    <linearGradient
+       id="linearGradient4050">
+      <stop
+         style="stop-color:#373737;stop-opacity:1;"
+         offset="0"
+         id="stop4052" />
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1;"
+         offset="1"
+         id="stop4054" />
+    </linearGradient>
+    <filter
+       id="filter3199"
+       color-interpolation-filters="sRGB"
+       height="1.5">
+      <feOffset
+         id="feOffset3207"
+         in="SourceGraphic"
+         result="offset1"
+         dx="0"
+         dy="8" />
+      <feComposite
+         id="feComposite3209"
+         in2="offset1"
+         in="SourceGraphic"
+         result="result1" />
+      <feColorMatrix
+         id="feColorMatrix3276"
+         in="offset1"
+         values=".5 0 0 0 0  0 .5 0 0 0  0 0 .5 0 0  0 0 0 1 0"
+         type="matrix"
+         result="resultat2" />
+      <feMorphology
+         id="feMorphology3012"
+         operator="dilate"
+         radius="1 7"
+         in="resultat2"
+         result="resultat3" />
+      <feTurbulence
+         id="feTurbulence3803"
+         result="turbulens" />
+    </filter>
+    <feComposite
+       id="feComposite3225"
+       in2="resultat3"
+       in="SourceGraphic"
+       result="result3"
+       operator="over" />
+    <filter
+       id="filter3784"
+       inkscape:menu-tooltip="Draws a black outline around"
+       inkscape:menu="ABCs"
+       inkscape:label="Black outline"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3792"
+         baseFrequency="0.15 0.001"
+         result="result1"
+         numOctaves="2" />
+      <feColorMatrix
+         id="feColorMatrix3794"
+         in="result1"
+         result="svartvitt"
+         type="saturate" />
+      <feComposite
+         id="feComposite3797"
+         in2="svartvitt"
+         in="SourceGraphic"
+         operator="in"
+         result="result2" />
+      <feComposite
+         id="feComposite3799"
+         in2="result2"
+         operator="arithmetic"
+         k1="4"
+         k2="1"
+         k3="0"
+         k4="0"
+         in="SourceGraphic" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="354.23263"
+     inkscape:cy="821.54541"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3192">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3801"
+       width="129.29953"
+       height="98.994949"
+       x="84.852814"
+       y="2.8136849" />
+    <text
+       xml:space="preserve"
+       style="font-size:120px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;filter:url(#filter3199);font-family:Sans;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
+       x="100"
+       y="252.36218"
+       id="text3195"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3197"
+         x="100"
+         y="252.36218"
+         style="font-weight:bold;fill:#999999;-inkscape-font-specification:Sans Bold;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">Embossed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:120px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="54.285713"
+       y="789.50507"
+       id="text3211"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3213"
+         x="54.285713"
+         y="789.50507">HEHE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:120px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="343.57144"
+       y="364.50504"
+       id="text3233"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3235"
+         x="343.57144"
+         y="364.50504">A</tspan></text>
+    <path
+       transform="matrix(1.8813264,0,0,1,-105.97346,2.0203051)"
+       style="fill:#000080;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3784)"
+       d="m 138.3909,37.158871 114.45693,42.426407 78.4822,-42.426407 0,76.771589 -192.93913,0 z"
+       id="rect3782"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+</svg>

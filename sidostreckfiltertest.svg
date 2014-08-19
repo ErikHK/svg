@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3957"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="sidostreckfiltertest.svg">
+  <defs
+     id="defs3959">
+    <filter
+       id="filter3967"
+       inkscape:menu-tooltip="Draws a black outline around"
+       inkscape:menu="ABCs"
+       inkscape:label="Black outline"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence3975"
+         result="turb1"
+         baseFrequency="1" />
+      <feTurbulence
+         id="feTurbulence3977"
+         result="turb2"
+         baseFrequency=".1" />
+      <feDisplacementMap
+         id="feDisplacementMap3981"
+         in2="turb2"
+         in="turb2"
+         scale="100"
+         xChannelSelector="A"
+         yChannelSelector="A" />
+      <feColorMatrix
+         id="feColorMatrix3989"
+         type="saturate"
+         result="result1" />
+      <feConvolveMatrix
+         id="feConvolveMatrix4105"
+         kernelMatrix="0 -1 0  -1 5 -1  0 -1 0"
+         result="matrix" />
+      <feBlend
+         id="feBlend4107"
+         in2="matrix"
+         in="matrix"
+         mode="multiply" />
+      <feOffset
+         id="feOffset4109"
+         dx="-50"
+         dy="-50"
+         result="result2" />
+      <feComposite
+         id="feComposite4111"
+         in2="result2"
+         in="SourceGraphic"
+         operator="in"
+         result="result3" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="507.07016"
+     inkscape:cy="790.01385"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3962">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#b3b3b3;stroke-width:3;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:9, 3;stroke-dashoffset:0;filter:url(#filter3967)"
+       id="rect3965"
+       width="456.58896"
+       height="389.91888"
+       x="93.944191"
+       y="49.280701" />
+    <text
+       xml:space="preserve"
+       style="font-size:120px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans"
+       x="38.385796"
+       y="667.49408"
+       id="text4001"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4003"
+         x="38.385796"
+         y="667.49408">Hej</tspan></text>
+  </g>
+</svg>

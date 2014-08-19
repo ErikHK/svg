@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="droplets_filter.svg">
+  <defs
+     id="defs4">
+    <filter
+       id="filter2989"
+       inkscape:label="filter1">
+      <feTurbulence
+         id="feTurbulence2991"
+         baseFrequency="0.21135371179039303"
+         numOctaves="1"
+         type="fractalNoise" />
+      <feConvolveMatrix
+         order="5 5"
+         kernelMatrix="-2 -4 -4 -4 -2 -4 0 8 0 -4 -4 8 24 8 -4 -4 0 8 0 -4 -2 -4 -4 -4 -2 "
+         id="feConvolveMatrix2993"
+         divisor="0"
+         bias="2"
+         result="result1" />
+      <feGaussianBlur
+         stdDeviation="0.69999999999999996"
+         id="feGaussianBlur3003" />
+      <feSpecularLighting
+         id="feSpecularLighting3005"
+         surfaceScale="6"
+         specularConstant="1"
+         specularExponent="1"
+         result="result2">
+        <feDistantLight
+           id="feDistantLight3007"
+           elevation="23"
+           azimuth="93" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite3009"
+         in2="result2"
+         in="SourceGraphic"
+         operator="in" />
+    </filter>
+    <filter
+       id="filter3013"
+       inkscape:label="filter2">
+      <feTurbulence
+         id="feTurbulence3015"
+         type="fractalNoise"
+         baseFrequency="0.033187772925764192 0.015720524017467249"
+         numOctaves="10" />
+      <feSpecularLighting
+         id="feSpecularLighting3017"
+         result="result1"
+         surfaceScale="10"
+         specularExponent="10">
+        <fePointLight
+           id="fePointLight3019"
+           z="200" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite3021"
+         in2="result1"
+         in="SourceGraphic"
+         operator="in"
+         result="result3" />
+      <feMorphology
+         id="feMorphology3023"
+         radius="1"
+         result="result2"
+         operator="erode" />
+      <feComposite
+         id="feComposite3037"
+         in2="result2"
+         in="SourceGraphic"
+         operator="in" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71282277"
+     inkscape:cx="421.88626"
+     inkscape:cy="1040.8396"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="675"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2989)"
+       id="rect2997"
+       width="98.521835"
+       height="88.314621"
+       x="325.29959"
+       y="158.12117" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;filter:url(#filter2989)"
+       x="31.428572"
+       y="326.64789"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="31.428572"
+         y="326.64789"
+         style="font-size:180px;fill:#800000">HEJSAN</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3013)"
+       id="rect3011"
+       width="448.87149"
+       height="207.86667"
+       x="183.76619"
+       y="-92.410782" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3033"
+       y="-77.088455"
+       x="83.011597"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter3013);font-family:Arial;-inkscape-font-specification:Arial Bold"
+       xml:space="preserve"><tspan
+         style="font-size:180px;fill:#000000;font-weight:bold;-inkscape-font-specification:Arial Bold"
+         y="-77.088455"
+         x="83.011597"
+         id="tspan3035"
+         sodipodi:role="line">HEJSAN</tspan></text>
+  </g>
+</svg>

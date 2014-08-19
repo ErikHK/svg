@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="phoneholder_s3mini.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.55544559"
+     inkscape:cx="106.97455"
+     inkscape:cy="79.72443"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1366"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2.5390623e-6)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.76169467px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 41.120812,883.4022 108.7861,837.1827 c 0,0 30.91506,45.5503 66.50666,45.5503 35.5916,0 37.77551,-59.75391 37.77551,-59.75391 l -22.27822,0.22239 c 0,0 11.42857,40.20612 -19.01337,39.66612 C 141.33474,862.3276 50.162122,725.79421 50.162122,725.79421 l -6.04037,26.12792 46.98731,64.69634 -90.22821467,66.86283 z"
+       id="path2993"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscczccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3011"
+       d="m 41.120812,1051.4022 67.665288,-46.2195 0.35588,0.5116 1.04202,1.4456 1.68971,2.2464 2.29899,2.9136 2.86981,3.4474 3.40221,3.8478 3.89617,4.1147 4.35169,4.2481 4.76878,4.248 5.14744,4.1147 5.48765,3.8478 5.78944,3.4474 6.05278,2.9136 6.2777,2.2464 6.46417,1.4456 6.61222,0.5116 6.28955,-0.6711 5.5523,-1.8965 4.86078,-2.9468 4.215,-3.8221 3.61496,-4.5224 3.06066,-5.0476 2.55209,-5.3977 2.08926,-5.5728 1.67218,-5.5727 1.30083,-5.3977 0.97521,-5.0476 0.69534,-4.5224 0.46119,-3.82211 0.27281,-2.94685 0.13013,-1.89649 0.0332,-0.67106 -22.27822,0.22239 0.43161,1.72655 0.87845,4.54721 0.70067,6.41916 -0.10169,7.3426 -0.57189,3.7286 -1.04238,3.6145 -1.56953,3.3752 -2.15336,3.011 -3.3076,2.5058 -4.34722,1.881 -5.07686,0.834 -3.49009,0.044 -3.60329,-0.6001 -7.06874,-2.7292 -7.65016,-5.5358 -8.5786,-7.7679 -40.8874,-46.59452 -37.282782,-49.44266 -15.907046,-23.76671 -3.020185,13.06396 -3.020185,13.06396 46.98731,64.69634 -90.22821467,66.86283 z"
+       style="opacity:0.39166667;fill:#ff00ff;stroke:#ff00ff;stroke-width:1.76169467px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

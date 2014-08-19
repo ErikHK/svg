@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="skraepfilter.svg">
+  <defs
+     id="defs4">
+    <filter
+       id="filter2987"
+       inkscape:label="filter1">
+      <feTurbulence
+         id="feTurbulence3009"
+         baseFrequency="0.035807860262008738" />
+      <feGaussianBlur
+         stdDeviation="20"
+         id="feGaussianBlur3011" />
+      <feSpecularLighting
+         id="feSpecularLighting3013"
+         surfaceScale="20"
+         specularConstant="1"
+         specularExponent="10">
+        <feDistantLight
+           id="feDistantLight3015"
+           elevation="44"
+           azimuth="89" />
+      </feSpecularLighting>
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="-1 0 1 -2 0 2 -1 0 1 "
+         id="feConvolveMatrix3019"
+         bias="-0.10000000000000001"
+         result="result1"
+         divisor=".06" />
+      <feMorphology
+         id="feMorphology3027"
+         radius="1"
+         result="result2"
+         operator="erode" />
+      <feComposite
+         id="feComposite3029"
+         in2="result2"
+         in="SourceGraphic"
+         operator="out" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59568102"
+     inkscape:cx="574.77479"
+     inkscape:cy="667.14285"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="675"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3017"
+       width="258.77823"
+       height="249.28178"
+       x="265.90057"
+       y="127.64548" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter2987)"
+       id="rect2985"
+       width="537.14288"
+       height="397.14285"
+       x="95.194954"
+       y="50.136452" />
+    <text
+       xml:space="preserve"
+       style="font-size:180px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;filter:url(#filter2987);font-family:Arial;-inkscape-font-specification:Arial"
+       x="165.00079"
+       y="600.09381"
+       id="text3023"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3025"
+         x="165.00079"
+         y="600.09381">Heheheeh</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3035"
+       y="734.89142"
+       x="165.00079"
+       style="font-size:180px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;filter:url(#filter2987);font-family:Calibri;-inkscape-font-specification:Calibri"
+       xml:space="preserve"><tspan
+         y="734.89142"
+         x="165.00079"
+         id="tspan3037"
+         sodipodi:role="line">Heheheeh</tspan></text>
+  </g>
+</svg>

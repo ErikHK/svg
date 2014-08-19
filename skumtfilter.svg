@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3107"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 4">
+  <defs
+     id="defs3109">
+    <filter
+       id="filter3117"
+       inkscape:label="filter1">
+      <feTurbulence
+         id="feTurbulence3119"
+         baseFrequency="0.0096069868995633193"
+         result="result3" />
+      <feMorphology
+         id="feMorphology3121"
+         radius="18" />
+      <feSpecularLighting
+         id="feSpecularLighting3125"
+         surfaceScale="20"
+         result="result1"
+         specularConstant="1"
+         specularExponent="10">
+        <feDistantLight
+           id="feDistantLight3127"
+           elevation="47" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite3129"
+         in2="result1"
+         operator="in"
+         in="SourceGraphic"
+         result="result2" />
+      <feConvolveMatrix
+         order="3 3"
+         kernelMatrix="1 0 -1 2 10 -2 1 0 -1 "
+         id="feConvolveMatrix3143"
+         divisor="5"
+         bias="0" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="675"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3112">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3123"
+       width="734.28571"
+       height="642.85712"
+       x="-25.714289"
+       y="-53.352104" />
+    <rect
+       style="fill:#550000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3117)"
+       id="rect3115"
+       width="920.00006"
+       height="988.57141"
+       x="158"
+       y="57.790745"
+       ry="128.57143" />
+  </g>
+</svg>
