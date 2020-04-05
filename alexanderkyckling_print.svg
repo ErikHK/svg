@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="alexanderkyckling_print.svg">
+   sodipodi:docname="alexanderkyckling_print.svg"
+   inkscape:export-filename="C:\Users\erikhk\svg\alexanderkyckling.png"
+   inkscape:export-xdpi="299.96188"
+   inkscape:export-ydpi="299.96188">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -23,11 +26,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="573.74438"
-     inkscape:cy="415.83742"
+     inkscape:zoom="0.7"
+     inkscape:cx="481.18682"
+     inkscape:cy="393.42893"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
