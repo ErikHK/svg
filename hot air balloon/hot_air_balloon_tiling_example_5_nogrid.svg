@@ -13,7 +13,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg158"
-   sodipodi:docname="hot_air_balloon_tiling_example_5.svg"
+   sodipodi:docname="hot_air_balloon_tiling_example_5_nogrid.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
   <defs
      id="defs152" />
@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.096504996"
+     inkscape:zoom="0.13647867"
      inkscape:cx="2379.6632"
-     inkscape:cy="3304.8872"
+     inkscape:cy="3025.5234"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-global="true"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -498,8 +498,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2"
-     sodipodi:insensitive="true">
+     inkscape:label="Layer 2">
     <path
        id="ellipse2127"
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
@@ -717,12 +716,12 @@
        id="path4662"
        transform="scale(0.26458333)" />
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:5.34506;stroke-linecap:round"
+       style="opacity:1;fill:#aa4400;fill-opacity:1;stroke-width:5.34506;stroke-linecap:round"
        d="m 2668.846,4492.1284 c -32.8445,7.1799 -64.5306,19.3404 -95.6274,32.0103 -73.9543,31.8634 -145.3373,76.2504 -194.7808,141.0099 -17.8626,24.6176 -33.8071,52.407 -37.7446,83.0132 -1.1197,19.7789 -1.7003,40.501 7.7368,58.5987 18.7232,41.5626 61.9372,65.5908 104.1822,77.1935 47.1593,12.5208 97.0641,16.0427 145.3282,10.0378 42.6355,-22.6917 86.3055,-43.5234 131.8273,-59.7894 4.5957,-1.2246 9.838,-4.6845 6.264,-10.1663 -21.217,-110.5188 -41.6977,-221.2202 -65.3185,-331.2475 -0.2698,-0.7419 -1.2349,-0.6585 -1.8672,-0.6602 z"
        id="path4664"
        transform="scale(0.26458333)" />
     <path
-       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke-width:5.34506;stroke-linecap:round"
+       style="opacity:1;fill:#aa4400;fill-opacity:1;stroke-width:5.34506;stroke-linecap:round"
        d="m 2805.8148,4473.8154 c -34.8461,0.073 -69.7846,2.6763 -103.8259,10.3442 7.9966,47.8079 18.7515,95.6302 27.7326,143.4539 12.6444,63.1043 24.1298,126.4554 36.9317,189.5161 0.057,4.8135 4.1021,5.1933 7.4219,2.8726 35.3923,-9.7624 71.3893,-17.4651 107.6404,-23.1992 52.5504,-36.125 103.9482,-80.1232 129.5138,-140.0789 15.7016,-35.9042 15.4847,-80.9385 -9.1409,-112.9166 -30.5204,-40.5717 -81.6708,-58.4401 -130.0459,-66.2908 -21.8709,-3.8574 -44.0916,-3.9784 -66.2277,-3.7013 z"
        id="path4666"
        transform="scale(0.26458333)" />
@@ -825,190 +824,5 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Layer 3">
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.1934"
-       id="rect5329"
-       width="208.80659"
-       height="295.80661"
-       x="136.53101"
-       y="46.889927"
-       inkscape:tile-cx="240.9343"
-       inkscape:tile-cy="158.79325"
-       inkscape:tile-w="209.99999"
-       inkscape:tile-h="297"
-       inkscape:tile-x0="135.9343"
-       inkscape:tile-y0="10.293246" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(0,297)"
-       id="use5426"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(0,594.00001)"
-       id="use5428"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(0,891.00001)"
-       id="use5430"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(0,1188)"
-       id="use5432"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(209.99999)"
-       id="use5434"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(209.99999,297)"
-       id="use5436"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(209.99999,594.00001)"
-       id="use5438"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(209.99999,891.00001)"
-       id="use5440"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(209.99999,1188)"
-       id="use5442"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(419.99998)"
-       id="use5444"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(419.99998,297)"
-       id="use5446"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(419.99998,594.00001)"
-       id="use5448"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(419.99998,891.00001)"
-       id="use5450"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(419.99998,1188)"
-       id="use5452"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(629.99997)"
-       id="use5454"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(629.99997,297)"
-       id="use5456"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(629.99997,594.00001)"
-       id="use5458"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(629.99997,891.00001)"
-       id="use5460"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#rect5329"
-       xlink:href="#rect5329"
-       transform="translate(629.99997,1188)"
-       id="use5462"
-       width="100%"
-       height="100%" />
-  </g>
+     inkscape:label="Layer 3" />
 </svg>

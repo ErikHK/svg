@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="doubledecker.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="357.57012"
+     inkscape:cy="453.27061"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1644"
+     inkscape:window-height="1020"
+     inkscape:window-x="38"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Lager 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect10"
+       style="fill:#ff0000;stroke-width:3.77953"
+       d="M 265.71484 84.285156 C 233.26629 84.285156 207.14258 110.40887 207.14258 142.85742 L 207.14258 317.14258 C 221.1243 319.61697 238.57227 326.30272 238.57227 344.28516 C 238.57227 371.48387 235.044 450.34489 168.38086 468.0293 C 158.66381 470.73679 156.64173 474.26493 157.14258 479.31836 L 157.14258 590 C 157.14258 622.44857 183.26627 648.57227 215.71484 648.57227 L 265.71484 648.57227 L 305.99023 648.57227 A 95.714289 95.714289 0 0 1 302.85742 624.28516 A 95.714289 95.714289 0 0 1 398.57227 528.57227 A 95.714289 95.714289 0 0 1 494.28516 624.28516 A 95.714289 95.714289 0 0 1 491.15234 648.57227 L 660.27539 648.57227 A 95.714288 95.714288 0 0 1 657.14258 624.28516 A 95.714288 95.714288 0 0 1 752.85742 528.57227 A 95.714288 95.714288 0 0 1 848.57227 624.28516 A 95.714288 95.714288 0 0 1 845.4375 648.57227 L 927.14258 648.57227 C 943.36686 648.57227 958.00892 642.03991 968.5957 631.45312 C 969.25773 630.79116 969.9035 630.11495 970.5332 629.42188 C 979.97393 619.03051 985.71484 605.21027 985.71484 590 L 985.71484 402.85742 L 985.71484 142.85742 C 985.71484 110.40887 959.59113 84.285156 927.14258 84.285156 L 265.71484 84.285156 z "
+       transform="scale(0.26458333)" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.850747"
+       id="circle29"
+       cx="105.45534"
+       cy="165.1756"
+       r="21.544643" />
+    <circle
+       style="fill:#ff0000;stroke-width:0.83582"
+       id="circle31"
+       cx="199.19344"
+       cy="165.1756"
+       r="21.166668" />
+    <rect
+       style="fill:#000000;stroke-width:1"
+       id="rect35"
+       width="39.309525"
+       height="36.285713"
+       x="203.35118"
+       y="41.199402"
+       ry="9.0714216" />
+    <rect
+       style="fill:#000000;stroke-width:1"
+       id="rect37"
+       width="39.309525"
+       height="36.285713"
+       x="151.19046"
+       y="41.199402"
+       ry="9.0714216" />
+    <rect
+       style="fill:#000000;stroke-width:1"
+       id="rect39"
+       width="39.309525"
+       height="36.285713"
+       x="99.785698"
+       y="41.199402"
+       ry="9.0714216" />
+    <rect
+       style="fill:#000000;stroke-width:1"
+       id="rect41"
+       width="39.309525"
+       height="36.285713"
+       x="203.35118"
+       y="86.934525"
+       ry="9.0714216" />
+    <rect
+       style="fill:#000000;stroke-width:1"
+       id="rect43"
+       width="39.309525"
+       height="36.285713"
+       x="151.19046"
+       y="86.934525"
+       ry="9.0714216" />
+    <rect
+       style="fill:#000000;stroke-width:1"
+       id="rect45"
+       width="39.309525"
+       height="36.285713"
+       x="99.785698"
+       y="86.934525"
+       ry="9.0714216" />
+  </g>
+</svg>
